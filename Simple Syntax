@@ -28,3 +28,6 @@ for row in three_rows:
 to slice the list
 we use [0:3]
 python counts from 0 and not counting the last one
+
+double notation [][] 
+such as list[0][0] indicating the first element of the first list of the list
