@@ -1,0 +1,30 @@
+
+starting with #, the sentence will be ignored
+
+to should anything
+print()
+
+to create a list or empty list, use []
+month []
+
+to append a to b
+b.append(a)
+be can be a list or a string
+
+to split the string corresponding to usually comma or \n
+months = ('1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12')
+split_months = month.split(',')
+
+loop
+for a in b:
+    action
+it has to end with : and it should start with four spaces
+three_rows = ["Albuquerque,749", "Anaheim,371", "Anchorage,828"]
+final_list = []
+for row in three_rows:
+    split_list = row.split(',')
+    final_list.append(split_list)
+
+to slice the list
+we use [0:3]
+python counts from 0 and not counting the last one
