@@ -25,6 +25,9 @@ for row in three_rows:
     split_list = row.split(',')
     final_list.append(split_list)
 
+length of the list
+len()
+
 to slice the list
 we use [0:3]
 python counts from 0 and not counting the last one
