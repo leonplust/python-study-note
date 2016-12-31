@@ -34,3 +34,6 @@ python counts from 0 and not counting the last one
 
 double notation [][] 
 such as list[0][0] indicating the first element of the first list of the list
+
+== equal != different >= greater or equal  <= smaller or equal etc.
+result = (a == b)
