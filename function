@@ -1,0 +1,16 @@
+
+function
+
+for example
+
+def clean_text(text_string):
+    cleaned_string = text_string.replace(",","")
+    cleaned_string = cleaned_string.replace(".","")
+    cleaned_string = cleaned_string.replace("'", "")
+    cleaned_string = cleaned_string.replace(";", "")
+    cleaned_string = cleaned_string.replace("\n", "")
+    return(cleaned_string)
+cleaned_story = clean_text(story_string)
+
+to change frome capital to lower case
+lower_case = text.lower
