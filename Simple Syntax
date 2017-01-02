@@ -37,3 +37,7 @@ such as list[0][0] indicating the first element of the first list of the list
 
 == equal != different >= greater or equal  <= smaller or equal etc.
 result = (a == b)
+
+to open a file in read mode
+f = open(file)
+file_string = f.read()
